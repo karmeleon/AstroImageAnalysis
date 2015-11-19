@@ -1,14 +1,14 @@
 Program requirements:
 =====================
-*python3
+* python3
 
-*numpy
+* numpy
 
-*astropy
+* astropy
 
-*scipy
+* scipy
 
-*matplotlib
+* matplotlib
 
 Usage
 =====
